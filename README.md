@@ -1,6 +1,6 @@
 # premier-portfolio
 
-That's "First portfolio" in French ✨
+That's my "First portfolio"  ✨
 
 ## Screenshot 📸
 
@@ -12,4 +12,4 @@ That's "First portfolio" in French ✨
 
 ## Tools 🔨
 
-Built using HTML, CSS(SCSS), Javascript and GSAP
+Built using HTML, CSS(SCSS), Javascript
