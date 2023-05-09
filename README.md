@@ -4,7 +4,7 @@ That's my "First portfolio"  ✨
 
 ## Screenshot 📸
 
-![Israel Mitolu portfolio screenshot](./assets/img/seo-imgg.png)
+![Atharva portfolio screenshot](./assets/img/seo-imgg.png)
 
 ## Live Site 🚀
 
